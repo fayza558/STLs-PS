@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730311182 source:c:\users\t460\desktop\d. delete two elements\d. delete two elements\main.cpp
+	<iostream>
+	<vector>
+	<unordered_map>
+
