@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730994337 source:c:\users\t460\desktop\m. permutation minimization by deque\m. permutation minimization by deque\main.cpp
+	<iostream>
+	<vector>
+	<deque>
+
