@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733065913 source:c:\users\t460\desktop\d. sorting pairs\d. sorting pairs\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
